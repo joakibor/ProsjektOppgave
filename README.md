@@ -1,7 +1,7 @@
 # ProsjektOppgave
 Prosjektoppgave fra 2017 hvor jeg samarbeidet med en annen student, Alve Elde.
 Oppgaven var å lage en asp-interpreter i Java.
-(Oppgaven ble skrevet for halvannet år siden så kommentarene her er kanskje ikke helt accurate. Har ikke rukket å sette meg inn i den igjen enda)
+(Oppgaven ble skrevet for halvannet år siden så kommentarene her er kanskje ikke helt accurate.)
 
 I starten av oppgaven fikk vi de fire hovedklassene fra foreleser som skjelettkode.
 Videre fikk vi et kompendium for å forstå asp og akkurat hva oppgaven skulle gjøre.
